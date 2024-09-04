@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "Rutgers University, Electrical and Computer Engineering"
-date: 2022-09-01
+# date: 2022-09-01
 location: "Piscataway, New Jersey"
 ---
 
