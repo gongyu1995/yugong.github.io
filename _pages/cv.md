@@ -23,15 +23,18 @@ Work experience
   * Optimized dataflow for a GPU-CPU system using an offloading strategy.
   * Designed a CXL-based storage system for LLM inference.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **ScaleFlux Inc.**, Milpitas, United States  
+  **Intern, Hardware Engineering** (May 2022 – August 2022)
+  * Designed and validated RSA IP and chip-level micro-architectures.
+  * Developed RTL, performed synthesis, linting, and CDC checks.
+  * Authored detailed micro-architecture and design documents.
+  * Collaborated with architecture designers to troubleshoot, debug, and optimize system performance.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Tsinghua University and Shanghai Qizhi Institute**, Shanghai, China  
+  **Research Assistant** (September 2020 – July 2021)
+  * Investigated quantization techniques for CNN models.
+  * Proposed a heterogeneous accelerator utilizing various resources on FPGA.
+  * Explored the design space using Reinforcement Learning techniques.
   
 Skills
 ======
