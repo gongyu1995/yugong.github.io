@@ -68,7 +68,7 @@ Service and leadership
 
 Honors and Awards
 =====
-* 2023 **6-th Place Winner** of 2023 ACM/IEEE TinyML Design Contest
-* 2023 ISCA travel grant
-* 2023 **Best Paper Runner-up** of AAAI 2023 workshop: DL-Hardware Co-Design for AI Accleration
-* 2018 **2-nd Prize** of National Graduate Methematical Modeling Competition of China
+* 2023  **6-th Place Winner** of 2023 ACM/IEEE TinyML Design Contest
+* 2023  ISCA travel grant
+* 2023  **Best Paper Runner-up** of AAAI 2023 workshop: DL-Hardware Co-Design for AI Accleration
+* 2018  **2-nd Prize** of National Graduate Methematical Modeling Competition of China
