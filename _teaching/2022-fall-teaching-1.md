@@ -8,8 +8,6 @@ date: 2022-09-01
 location: "Piscataway, New Jersey"
 ---
 
-**Teaching Assistant Responsibilities:**
-
 - Designed and developed digital system labs utilizing Verilog to provide hands-on learning experiences for students.
 - Led and instructed lab sessions, guiding students through practical applications of course concepts.
 - Evaluated student performance by grading lab assignments and final exams, ensuring a fair and comprehensive assessment process.
