@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/Conference-4
 excerpt: 'Jinqi Xiao, Miao Yin, **Yu Gong**, Xiao Zang, Jian Ren, Bo Yuan'
 date: 2023-05-26
-venue: 'ISCA'
+venue: 'ICML'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/abs/2305.17235'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
