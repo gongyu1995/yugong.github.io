@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* May/2024 - August/2024: Samsung Semiconductor (San Jose, United States)
+  Intern, System Hardware Engineer 
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
