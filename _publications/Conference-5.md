@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/Conference-5
 excerpt: 'Jinqi Xiao, Chengming Zhang, **Yu Gong**, Miao Yin, Yang Sui, Lizhi Xiang, Dingwen Tao, Bo Yuan'
-date: 2023
+date: 2023/05/26
 venue: 'AAAI'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/26244'
