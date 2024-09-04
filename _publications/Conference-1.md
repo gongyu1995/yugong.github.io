@@ -1,7 +1,7 @@
 ---
 title: "DiMO-Sparse: Differentiable Modeling and Optimization of Sparse CNN Dataflow and Hardware Architecture"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/Conference-1
 excerpt: 'Jianfeng Song, Rongjian Liang, **Yu Gong**, Bo Yuan, Jiang Hu'
 date: 2024-03-25
