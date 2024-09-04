@@ -1,0 +1,13 @@
+---
+title: "Algorithm and hardware co-design of energy-efficient LSTM networks for video recognition with hierarchical tucker tensor decomposition"
+collection: publications
+category: manuscripts
+permalink: /publication/Journal-2
+excerpt: '**Yu Gong**, Miao Yin, Lingyi Huang, Chunhua Deng, Bo Yuan'
+date: 2022-10-10
+venue: 'IEEE Transactions on Computers'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9913653'
+# citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+---
+
+Long short-term memory (LSTM) is a type of powerful deep neural network that has been widely used in many sequence analysis and modeling applications. However, the large model size problem of LSTM networks make their practical deployment still very challenging, especially for the video recognition tasks that require high-dimensional input data. Aiming to overcome this limitation and fully unlock the potentials of LSTM models, in this paper we propose to perform algorithm and hardware co-design towards high- performance energy-efficient LSTM networks. At algorithm level, we propose to develop fully decomposed hierarchical Tucker (FDHT) structure-based LSTM, namely FDHT-LSTM, which enjoys ultra-low model complexity while still achieving high accuracy. In order to fully reap such attractive algorithmic benefit, we further develop the corresponding customized hardware architecture to support the efficient execution of the proposed FDHT-LSTM model. With the delicate design of memory access scheme, the complicated matrix transformation can be efficiently supported by the underlying hardware without any access conflict in an on-the-fly way. Our evaluation results show that both the proposed ultra-compact FDHT-LSTM models and the corresponding hardware accelerator achieve very high performance. Compared with the state-of-the-art compressed LSTM models, FDHT-LSTM enjoys both order-of-magnitude reduction (more than 1000x) in model size and significant accuracy improvement (0.6% to 12.7%) across different video recognition datasets. Meanwhile, compared with the state-of-the-art tensor decomposed model-oriented hardware TIE, our proposed FDHT-LSTM architecture achieve 2.5x , 1.46x and 2.41x increase in throughput, area efficiency and energy efficiency, respectively on LSTM-Youtube workload. For LSTM-UCF workload, our proposed design also outperforms TIE with 1.9x higher throughput, 1.83x higher energy efficiency and comparable area efficiency.
