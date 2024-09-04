@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student from Computer and Electrical Engineering Department in Rutgers, under the supervision of [Prof. Bo Yuan](https://sites.google.com/site/boyuaneecs/). Before that, I worked as a research asssitant in [Shanghai Qi Zhi Institute](https://sqz.ac.cn/en), under the supervision of [Prof. Li Jiang](https://scholar.google.com/citations?user=wCxFd8YAAAAJ&hl=zh-CN) and [Prof. Zhezhi He](https://scholar.google.com/citations?user=QzDf7GoAAAAJ&hl=en). My research interests focus on Efficient Architecture for AI and High Performance System Algorithm Co-design. You can find my CV [here](https://gongyu1995.github.io/yugong.github.io//cv/)
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a fourth year Ph.D. student from Computer and Electrical Engineering Department in Rutgers, under the supervision of [Prof. Bo Yuan](https://sites.google.com/site/boyuaneecs/). Before that, I worked as a research asssitant in [Shanghai Qi Zhi Institute](https://sqz.ac.cn/en), under the supervision of [Prof. Li Jiang](https://scholar.google.com/citations?user=wCxFd8YAAAAJ&hl=zh-CN) and [Prof. Zhezhi He](https://scholar.google.com/citations?user=QzDf7GoAAAAJ&hl=en). My research interests focus on Efficient Architecture for AI and High Performance System Algorithm Co-design. You can find my CV [here](https://gongyu1995.github.io/yugong.github.io//cv/).
 
 A data-driven personal website
 ======
@@ -45,7 +43,7 @@ How to edit your site's GitHub repository
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/yugong.github.io/images/editing-talk.png)
 
 For more info
 ------
