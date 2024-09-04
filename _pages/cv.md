@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* May/2024 - August/2024: Samsung Semiconductor (San Jose, United States)
-  Intern, System Hardware Engineer 
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Samsung Semiconductor**, San Jose, United States  
+  **Intern, System Hardware Engineer** (May 2024 – August 2024)
+  * Analyzed the bottleneck of LLM inference on a single GPU system.
+  * Optimized dataflow for a GPU-CPU system using an offloading strategy.
+  * Designed a CXL-based storage system for LLM inference.
 
 * Fall 2015: Research Assistant
   * Github University
